@@ -64,3 +64,20 @@ pytorch, LangChain
 SSiS 검색엔진 개선 프로젝트에 이어, 복지 도메인에 특화된 RAG 시스템의 성능을 향상시키기 위해 한국어 임베딩 모델의 도메인 적응(DAPT)과 HyperParameter 조정의 영향을 분석했습니다. 이 프로젝트는 복지로 서비스의 검색 정확도를 높이는 것을 목적으로 하며, 한국어 특화 임베딩 모델들의 성능 벤치마크를 작성하고, 가장 정확한 Embedding Model에 대한 평가를 정량적으로 하는 것에 집중하였습니다.
 
 https://github.com/ssisOneTeam/Korean-Embedding-Model-Performance-Benchmark-for-Retriever
+
+---
+
+### LangChain OpenTutorial
+
+- **역할**: 오픈소스 기여자
+- **기간**: 2024.12 ~
+- **Project Link**: [LangChain OpenTutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/)
+
+### 프로젝트 설명
+LangChain 기반 한국어 튜토리얼을 전 세계 사용자들에게 공유하기 위해 영어 번역 + UseCase 및 내용 최신화, 보강을 통해 LangChain 생태계 및 오픈소스에 기여하는 튜토리얼 제작 프로젝트입니다.
+
+- 신규 튜토리얼 개발 시 유저들의 사용 편의 및 세부 Method 사용에 집중해 편리하게 LLM 개발에 사용할 수 있는 것에 초점을 맞추었습니다.
+- [# 04-MODEL / 01-Chat Models #21](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/pull/21)
+- [# 13-LangChain-Expression-Language / 12-RunnableRetry](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/pull/310)
+- [# 02-Prompt / 05-Prompt-Caching #527](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/pull/527)
+
