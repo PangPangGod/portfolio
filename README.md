@@ -9,7 +9,7 @@
 
 ---
 ## Contact
-Email: rhcp1134@gmail.com
+Email: rhcp1134@gmail.com  
 Github: https://github.com/PangPangGod
 
 ---
@@ -36,7 +36,7 @@ Github: https://github.com/PangPangGod
 - 전처리된 텍스트의 효율적 활용 및 처리를 위한 데이터 대치 알고리즘 구현  
 
 #### 기술 스택
-pypdf, UnstructuredIO, YOLOX quantized 모델, GPT-3.5 Turbo Instruct, HTML, Python  
+pytorch, LangChain 
 
 #### 프로젝트 결과
 - 비정형 문서 Parsing System에 대한 이해 및 구현
